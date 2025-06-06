@@ -13,8 +13,6 @@ O objetivo deste desafio é transformar uma base de dados bruta em um dashboard 
 ## 🛠️ O que foi feito?
 A partir da base de dados fornecida, foi desenvolvido um dashboard de vendas profissional contendo:
 
-✅ Tabela resumo com a receita total por tipo de assinatura;
-
 📈 Gráfico de barras comparando o total de receita entre os tipos de assinatura;
 
 🥧 Gráfico de pizza com a distribuição dos tipos de plano (Core, Standard, Ultimate);
